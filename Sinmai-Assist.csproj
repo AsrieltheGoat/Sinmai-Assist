@@ -320,7 +320,7 @@
     <Compile Include="Common\CustomVersionText.cs" />
     <Compile Include="Common\DisableBackground.cs" />
     <Compile Include="Common\ChangeGameSettings.cs" />
-    <Compile Include="Common\DummyChimeLogin.cs" />
+    <!-- <Compile Include="Common\DummyChimeLogin.cs" /> -->
     <Compile Include="Common\ForceQuickRetry.cs" />
     <Compile Include="Common\InfinityTimerLegacy.cs" />
     <Compile Include="Common\SkipFade.cs" />
